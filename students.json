@@ -7,4 +7,13 @@
     "matiere_preferee": "Git",
     "emoji": "🍓"
   }
+  
+  {
+    "prenom": "Marie"
+    "nom": "Vielmas",
+    "promo": 2025,
+    "github_page": "https://MarieV-ENC.github.io/",
+    "matiere_preferee": "LaTex",
+    "emoji": "💻"
+  }
 ]
